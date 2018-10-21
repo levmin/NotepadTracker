@@ -1,0 +1,2 @@
+start TrackingServer.exe
+start NotepadTracker.exe
